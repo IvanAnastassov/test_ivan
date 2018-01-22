@@ -1,0 +1,3 @@
+learn Git
+learn Unix
+be good
